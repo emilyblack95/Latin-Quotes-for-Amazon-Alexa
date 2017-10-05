@@ -1,0 +1,11 @@
+GetNewQuoteIntent a quote
+GetNewQuoteIntent tell me a quote
+GetNewQuoteIntent tell me a latin quote
+GetNewQuoteIntent tell me a random latin quote
+GetNewQuoteIntent give me a quote
+GetNewQuoteIntent give me a latin quote
+GetNewQuoteIntent give me a random latin quote
+GetNewQuoteIntent tell me quote
+GetNewQuoteIntent give me quote
+GetNewQuoteIntent tell me something
+GetNewQuoteIntent give me something

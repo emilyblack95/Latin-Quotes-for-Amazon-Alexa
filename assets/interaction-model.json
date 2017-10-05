@@ -1,0 +1,33 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",  
+      "samples": []  
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "GetNewQuoteIntent",
+      "samples": [
+        "a quote",
+        "tell me a quote",
+        "tell me a latin quote",
+	"tell me a random latin quote",
+        "give me a quote",
+        "give me a latin quote",
+	"give me a random latin quote",
+        "tell me quote",
+        "give me quote",
+        "tell me something",
+        "give me something"
+      ],
+      "slots": []
+    }
+  ]
+}
