@@ -7,7 +7,7 @@ Version: 1.0
 'use strict';
 const Alexa = require('alexa-sdk');
 
-const APP_ID = amzn1.ask.skill.c7b2dc07-6558-489f-88d9-173aef7ba655;
+const APP_ID = insertappidhere;
 const SKILL_NAME = 'Latin Facts';
 const GET_QUOTE_MESSAGE = 'Salve! Here is your Latin quote: ';
 const HELP_MESSAGE = 'You can say give me a Latin quote, give me a quote, tell me a quote, or, you can say exit';
